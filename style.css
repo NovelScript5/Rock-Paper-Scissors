@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: consolas;
+}
+
+.Header {
+    color: #FD1D1D;
+    cursor: pointer;
+}
+
+.Span {
+    color: #000000;
+}
+
+#Choice2 {
+    color: 	#494949;
+    transition: color 0.3s;
+    cursor: pointer;
+}
+
+#Choice2:hover {
+    color: 	#000000;
+}
+
+.Buttons {
+    margin-top: 80px;
+}
+
+.Button {
+    width: 100px;
+    height: 45px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: #ffe7e7;
+    border: none;
+}
